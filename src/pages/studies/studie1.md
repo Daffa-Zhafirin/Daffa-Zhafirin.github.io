@@ -1,15 +1,8 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
-tags:
-  [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
-  ]
+title: Computer and Network Engineering
+location: Malang, Indonesia
+url: https://www.smktelkom-mlg.sch.id/
+institute: SMK Telkom Malang
+date: Jun 2017 - May 2020
+tags: ["Linux (CentOS / Ubuntu)","Cisco Packet Tracer","VirtualBox","VMware","MikroTik","HTML/CSS/PHP","Command Line", "Fiber Optic", "Fiber Optic Splicing & Installation", "Proxmox VE", "VoIP", "Networking Tools", "Network & Server Services"]
 ---

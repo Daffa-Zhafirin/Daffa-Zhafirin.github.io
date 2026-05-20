@@ -1,8 +1,8 @@
 ---
-title: DataAir
-url: http://dan.ma/humbe
+title: Tekiro
+url: https://tekiro.com
 tags: ["react", "javaScript", "axios", "HTML", "SCSS", "CSS"]
-date: 2022
+date: 2024
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Tekiro® delivers precision, reliability, and high-performance tools for every task. From hand tools to cordless equipment, our products are built to tackle light repairs and heavy-duty challenges alike. Choose Tekiro® and experience tools designed to empower professionals and enthusiasts with unmatched durability and versatility.

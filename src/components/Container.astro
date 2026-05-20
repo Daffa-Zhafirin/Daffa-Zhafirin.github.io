@@ -20,13 +20,25 @@ type MarkdownInstance = {
   compiledContent: () => string;
 };
 
-const works = Object.values(import.meta.glob("../pages/works/*.md", { eager: true })) as MarkdownInstance[];
-const projects = Object.values(import.meta.glob("../pages/projects/*.md", { eager: true })) as MarkdownInstance[];
-const studies = Object.values(import.meta.glob("../pages/studies/*.md", { eager: true })) as MarkdownInstance[];
-const certificates = Object.values(import.meta.glob("../pages/certificates/*.md", { eager: true })) as MarkdownInstance[];
-const blogs = Object.values(import.meta.glob("../pages/blogs/*.md", { eager: true })) as MarkdownInstance[];
-const contact = Object.values(import.meta.glob("../pages/contact/*.md", { eager: true })) as MarkdownInstance[];
-const PDF = "/cv-20240219.pdf";
+const works = Object.values(
+  import.meta.glob("../pages/works/*.md", { eager: true }),
+) as MarkdownInstance[];
+const projects = Object.values(
+  import.meta.glob("../pages/projects/*.md", { eager: true }),
+) as MarkdownInstance[];
+const studies = Object.values(
+  import.meta.glob("../pages/studies/*.md", { eager: true }),
+) as MarkdownInstance[];
+const certificates = Object.values(
+  import.meta.glob("../pages/certificates/*.md", { eager: true }),
+) as MarkdownInstance[];
+const blogs = Object.values(
+  import.meta.glob("../pages/blogs/*.md", { eager: true }),
+) as MarkdownInstance[];
+const contact = Object.values(
+  import.meta.glob("../pages/contact/*.md", { eager: true }),
+) as MarkdownInstance[];
+const PDF = "/CV-DaffaIqbalZhafirin.pdf";
 ---
 
 <div class="join join-vertical gap-1">

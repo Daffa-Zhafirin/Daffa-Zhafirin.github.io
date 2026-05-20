@@ -1,22 +1,16 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Web Developer
+date: Jan 2023 - Oct 2024
+url: https://deskteam360.com/
+location: Malang, Indonesia
+org: Deskteam360
 tags:
-  [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
-  ]
+  ["WordPress","Shopify","Squarespace","Wix","WooCommerce","Elementor","Plugins","Zapier","Make","Responsive Web Design","Front-End Development","HTML","CSS","Troubleshooting"]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Building and managing websites using CMS platforms such as WordPress, Shopify, Wix and other platforms.
+- Assisting clients with various technical requests by understanding and configuring different platforms that support their business operations.
+- Using automation tools like Zapier and Make to streamline workflows and improve efficiency.
+- Performing routine maintenance, including updates, security checks, and troubleshooting technical issues.
+- Improving website UI and interactivity to create a better user experience.
+- Collaborating with the design team to achieve the best results in website development and user experience

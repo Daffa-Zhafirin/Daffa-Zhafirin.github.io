@@ -1,10 +1,10 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
+name: "Daffa Zhafirin"
+designation: "WordPress Technical Support"
+location: Bali, Indonesia
 pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+website: "https://zhafirin.com"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+I’m passionate about websites and all things tech. Most of my work right now revolves around WordPress, whether it’s building websites, fixing issues, or helping clients keep everything running smoothly. I enjoy solving technical problems, improving websites, and exploring new technologies to keep growing my skills and staying updated in the tech world.
