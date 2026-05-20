@@ -1,7 +1,7 @@
 ---
 title: Tekiro
 url: https://tekiro.com
-tags: ["react", "javaScript", "axios", "HTML", "SCSS", "CSS"]
+tags: ["WordPress", "JetEngine", "CSS"]
 date: 2024
 ---
 
